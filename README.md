@@ -1,7 +1,6 @@
 <<<<<<< HEAD
 # App_flutter
 =======
-# curso_deschamps1
 ## Jordan Marques
 
 A new Flutter project.
